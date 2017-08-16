@@ -6,5 +6,5 @@
     "arrayCol"   : "25,50,75",
     "process"    : [ "_ui-attrs.*", "ui*"],
     "noprocess"  : "",
-    "template"   : "ui-general"
+    "template"   : "ui"
 }
