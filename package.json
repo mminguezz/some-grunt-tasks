@@ -1,0 +1,27 @@
+{
+  "name": "some tasks",
+  "version": "0.1.2",
+  "description": "Automatización de tareas en local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@m_minguezz",
+  "license": "ISC",
+  "devDependencies": {
+    "assemble-less": "^0.7.0",
+    "autoprefixer": "^6.3.7",
+    "cssnano": "^3.7.3",
+    "grunt": "^1.0.1",
+    "grunt-available-tasks": "^0.6.3",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jst": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-notify": "^0.4.5",
+    "grunt-postcss": "^0.8.0",
+    "grunt-processhtml": "^0.4.1",
+    "grunt-webfont": "^1.5.0"
+  }
+}
