@@ -1,0 +1,10 @@
+{
+    "tplfunction": "templateCMP",
+    "namespace"  : "templates",
+    "classPrefix": "ui-",
+    "colPrefix"  : "col-",
+    "arrayCol"   : "25,50,75",
+    "process"    : [ "_ui-attrs.*", "ui*"],
+    "noprocess"  : "",
+    "template"   : "ui-general"
+}

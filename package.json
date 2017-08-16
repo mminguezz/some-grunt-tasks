@@ -1,5 +1,5 @@
 {
-  "name": "some tasks",
+  "name": "some_tasks",
   "version": "0.1.2",
   "description": "Automatización de tareas en local",
   "main": "index.js",

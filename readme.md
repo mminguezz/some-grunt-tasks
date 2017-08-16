@@ -9,6 +9,7 @@
 
 * Instalar el “cliente” de Grunt de forma global _sudo npm install grunt-cli -g_
 * Instalar los módulos de Node necesarios _sudo npm install_
+* _sudo apt-get install fontforge ttfautohint_ para que funcione la tarea que genera fuentes de iconos
 * Listo, ya puedes usar las tareas de Grunt creadas
 
 ## Como añadir tareas

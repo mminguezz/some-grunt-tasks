@@ -1,0 +1,23 @@
+{
+    "ieSupport" : true,
+    "fonts" : {
+        "icon_generate_docs" : true,
+        "origin"       : "i/origin/icons/svg",
+        "destination"  : "i/destination/icons",
+        "less_des"     : "i/destination/less",
+        "lesstocss"    : "i/destination/less/icons.less",
+        "css_des"      : "i/destination/css/icons.css",
+        "templateLess" : "i/templates/font/font-template.less.js",
+        "documentation": "i/documentation/fonticons",
+        "documentationTemplate":  "i/templates/font/font-template.htmldemo.html"
+    },
+    "templates": {
+        "origin_files" :  "t/lib/templates/sources",
+        "origin_html"  :  "t/lib/templates/sources/html",
+        "origin_css"   :  "t/lib/templates/sources/less",
+        "destination"  :  "t/lib/templates",
+        "temporary"    :  "t/lib/tmp",
+        "readconfig"   :  "t/lib/config",
+        "documentation":  "t/documentation/templates"
+    }
+}
